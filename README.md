@@ -1,1 +1,2 @@
 # CourtCounter
+Single Screen app basically it  has 6 buttonds each team has 3 buttons  which is used to scroe the points Technically i learned about the intialization ,declaration and scope of variable
